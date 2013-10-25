@@ -3,8 +3,6 @@ Smith is a small table-top foodbot capable of managing an indoor herb garden.  I
 Find more information here: http://foodbot.org/index.php?title=Smith
 
 # Todo:
-  * source stepper drive wheel
-  * adjust stepper mount location for drive wheel + Z axis -- widen box
   * position pump mounting holes
   * make holes for water intake / output
   * position Arduino Mega mounting holes
