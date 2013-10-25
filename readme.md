@@ -4,7 +4,7 @@ Find more information here: http://foodbot.org/index.php?title=Smith
 
 # Todo:
   * source stepper drive wheel
-  * adjust stepper mount location for drive wheel
+  * adjust stepper mount location for drive wheel + Z axis -- widen box
   * position pump mounting holes
   * make holes for water intake / output
   * position Arduino Mega mounting holes
@@ -13,6 +13,7 @@ Find more information here: http://foodbot.org/index.php?title=Smith
   * source water resivour
   * design mount for soil moisture sensor
   * design mount for webcam
+  * reduce plant pot ring size, to avoid contact with base
 
 # Development:
 
