@@ -15,6 +15,10 @@ Find more information here: http://foodbot.org/index.php?title=Smith
 
 # Development:
 
+Gears (pitch 20px, pressure angle: 20):
+  * large: 165 teeth
+  * small: 27 teeth
+
 Box dimensions (outside):
   * length: 250mm
   * width: 100mm
